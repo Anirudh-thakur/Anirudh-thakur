@@ -9,3 +9,5 @@ Hi there, I am a [Decorated Developer](http://decorateddevelopers.com "My work")
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anirudh-thakur-bb621159/) , [Facebook](https://www.facebook.com/huntguy.anirudh)
 - ⚡ Fun fact: Optimist: Glass is half full, Pessimist: Glass is half empty , Programmer: Glass is twice the required size.
 <img src="https://github-readme-stats.vercel.app/api?username=Anirudh-thakur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-thakur&amp;theme=dark&amp;hide_langs_below=1">
+

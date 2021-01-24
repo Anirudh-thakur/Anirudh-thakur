@@ -11,15 +11,19 @@ Hi there, I am a [Decorated Developer](http://decorateddevelopers.com "My work")
 
 Live Projects on Heroku:
 
-1. Book Finder
+1. Flassger API for Test bank notes
+- Github Link : https://github.com/Anirudh-thakur/FlaskNoteDetector
+- Heroku Link : https://flassger-banknote.herokuapp.com/apidocs
+
+2. Book Finder
 - Github Link : https://github.com/Anirudh-thakur/bookFinder
 - Heroku Link : https://arcane-waters-81402.herokuapp.com/
 
-2. Zodiac App
+3. Zodiac App
 - Github Link : https://github.com/Anirudh-thakur/zodiacapp
 - Heroku Link : https://lit-gorge-51305.herokuapp.com/
 
-3. Simple Meme Uploader App 
+4. Simple Meme Uploader App 
 - Github Link : https://github.com/Anirudh-thakur/memeTinderUploader
 - Heroku Link : https://mysterious-inlet-67175.herokuapp.com/
 

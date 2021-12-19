@@ -1,9 +1,8 @@
-Hi there, I am a [Decorated Developer](http://decorateddevelopers.com "My work") 👋
 
-
-- 🔭 I’m currently working on Flask based Web Apps for prediction
-- 🌱 I’m currently learning  Data Science and Machine learning 
-- 👯 I’m looking to collaborate on  Data Science and Machine learning 
+Heyy !
+- 🔭 I’m currently working on MERN Stack based Web Apps for prediction
+- 🌱 I’m currently learning Full Stack Web Development and Machine learning 
+- 👯 I’m looking to collaborate on Full Stack Web Development and Machine learning 
 - 🤔 I’m looking for help with Dockers
 - 💬 Ask me about Python, JavaScript, Java , Spring , Hibernate 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anirudh-thakur-bb621159/) , [Facebook](https://www.facebook.com/huntguy.anirudh)
